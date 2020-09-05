@@ -19,4 +19,4 @@ I am Rigen Maulana, tech enthusiant and love coding
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=rygenzx&theme=light&show_icons=true)](https://github.com/rygenzx)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rygenzx&hide=TeX&layout=compact&theme=light)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rygenzx.rygenzx)
+//  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rygenzx.rygenzx)
