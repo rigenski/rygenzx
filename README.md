@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am Rigen Maulana, tech enthusiant and love coding
+I am Rigen Maulana, tech enthusiant and love coding 🚀
 
 <p align="center">
   <a href="mailto:rygen.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
