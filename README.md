@@ -19,7 +19,9 @@ I'am Rigen Maulana, a tech enthusiast who wants to always learn. I hope we can b
   <img align="left" alt="Rigen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </p>
+
 <br />
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=rygenzx&theme=gotham&show_icons=true)](https://github.com/rygenzx)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rygenzx&hide=TeX&layout=compact&theme=gotham)
 
