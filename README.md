@@ -1,7 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'am Rigen Maulana, a tech enthusiast who wants to always learn. I hope we can be friends, Thank you .....
+
 <br />
+
 <p align="center">
 <a href="https://www.linkedin.com/in/rygenzx/">
   <img align="left" alt="Rygen | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
