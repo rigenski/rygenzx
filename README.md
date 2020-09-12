@@ -17,6 +17,9 @@ I'am Rigen Maulana, a tech enthusiast who wants to always learn. I hope we can b
 <a href="https://twitter.com/rygen_zx">
    <img align="left" alt="Rigen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="mailto:rygen.dev@gmail.com">
+   <img align="left" alt="Rigen | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br/>
 <br/>
