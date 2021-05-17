@@ -23,8 +23,8 @@
 
 </p>
 
- <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
-                width="28" /> My Github Stats</h3></summary>
+ <h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
+                width="28" /> My Github Stats</h3>
 
 <br>
 
