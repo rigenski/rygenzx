@@ -20,7 +20,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rygenzx/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rygen_zx/)
 [<img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/rygen_zx) 
-[<ig src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rygen.dev@gmail.com/)
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rygen.dev@gmail.com/)
 
 </p>
 
