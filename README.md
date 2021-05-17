@@ -20,7 +20,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rygen_zx/)
 [<img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/rygen_zx) 
 [<ig src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rygen.dev@gmail.com/)
-]![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/RahulMahesh62)
+[![Visits Badge](https://badges.pufler.dev/visits/rygenzx/rygenzx?style=for-the-badge)](https://github.com/rygenzx)
 
 </p>
 
