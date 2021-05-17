@@ -1,30 +1,34 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1><p align="center">Hello Everyone, I'm Rigen Maulana! <a href="https://rygenzx.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-I'am Rigen Maulana, a tech enthusiast who wants to always learn. I hope we can be friends, Thank you .....
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
+                width="28" /> What I currently do</h2></summary>
 
-<a href="https://www.linkedin.com/in/rygenzx/">
-    <img align="left" alt="Rygen | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/rygen_zx">
-   <img align="left" alt="Rygen | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://facebook.com/rygenzx/">
-   <img align="left" alt="Rygen | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/rygen_zx/">
-   <img align="left" alt="Rygen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/rygen_zx">
-   <img align="left" alt="Rigen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:rygen.dev@gmail.com">
-   <img align="left" alt="Rigen | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+- 🔭 I'm currently a Student.
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m looking.
+- 🤔 I’m looking.
+- 💬 Ask me about, Tech and other.
 
-<br/>
-<br/>
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rygenzx&theme=gotham&show_icons=true)](https://github.com/rygenzx)
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://rygenzx.github.io/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rahulmahesh62) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rygenzx/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rygen_zx/)
+[<img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/rygen_zx) 
+[<ig src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rygen.dev@gmail.com/)
+]![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/RahulMahesh62)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rygenzx.rygenzx)
+</p>
 
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+                width="28" /> My Github Stats</h2> </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rygenzx&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+</p>
