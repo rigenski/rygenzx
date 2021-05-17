@@ -2,7 +2,7 @@
 
 **<h3 align="center">I'm a Student Developer.<br/>I specialize in Web Development.<br>I also love Tech and Design.<br></h3><br/>**
 
-<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
+<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" align="center"
                 width="28" /> What I currently do</h3></summary>
 
 - 🏠 I'm currently a Student.
@@ -23,7 +23,7 @@
 
 </p>
 
- <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+ <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif?1450372448" align="center"
                 width="28" /> My Github Stats</h3></summary>
 
 <br>
