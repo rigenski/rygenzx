@@ -1,4 +1,4 @@
-## <p align="center">Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+# <p align="center">Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">I'm a Student Developer.<br/>I specialize in Web Development.<br> I also love Tech and Design.<br></p><br/>
 
