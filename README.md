@@ -2,8 +2,8 @@
 
 **<p align="center">I'm a Student Developer.<br/>I specialize in Web Development.<br>I also love Tech and Design.<br></p><br/>**
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
+<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
+                width="28" /> What I currently do</h3></summary>
 
 - 🏠 I'm currently a Student.
 - 💻 I’m currently learning MERN and PHP.
