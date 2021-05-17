@@ -1,4 +1,4 @@
-# <p align="center">Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+## <p align="center">Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 **<p align="center">I'm a Student Developer.<br/>I specialize in Web Development.<br>I also love Tech and Design.<br></p><br/>**
 
@@ -10,8 +10,8 @@
 - 😁 I hope one day we can collaborate.
 - 💬 Ask me about, Tech and other.
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+### <summary><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</summary>
 
 <p align = "center">
  
@@ -24,8 +24,8 @@
 
 </p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
+### <summary><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+                width="28" /> My Github Stats</summary>
 
 <br>
 
