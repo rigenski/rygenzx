@@ -8,7 +8,7 @@
 - 🏠 **I'm currently a Student.**
 - 💻 **I’m currently learning MERN and PHP.**
 - 😁 **I hope one day we can collaborate.**
-- 💬 **Ask me about, Tech and other.**
+- 💬 **Ask me about Tech and other.**
 
  <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif?1450372448" align="center"
                 width="28" /> To connect with me</h3></summary>
