@@ -20,7 +20,7 @@
                 width="24" /> &nbsp; My Github Stats</h3>
 
 <p>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rygenzx&show_icons=true&theme=algolia)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=rygenzx&theme=algolia&show_icons=true)
   
 
 </p>
