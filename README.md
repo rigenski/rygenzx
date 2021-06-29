@@ -1,4 +1,4 @@
-## Heyy , I'm [Rigen Maulana!](http://rygenzx.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
+## Heyy , I'm [Rigen Maulana](http://rygenzx.github.io/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
 <p align = "center">
  
