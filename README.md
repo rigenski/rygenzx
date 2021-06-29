@@ -14,6 +14,8 @@
 - 😁 **I hope one day we can collaborate.**
 - 💬 **Ask me about Tech and other.**
 
+<img src="https://komarev.com/ghpvc/?username=rygenzx&label=Profile%20views&color=0e75b6&style=flat" alt="rygenzx" /> ![GitHub followers](https://img.shields.io/github/followers/rygenzx) ![GitHub User's stars](https://img.shields.io/github/stars/rygenzx)
+
  <h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
                 width="24" /> My Github Stats</h3>
 
