@@ -16,11 +16,8 @@
 
 &nbsp; ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rygenzx.rygenzx) ![GitHub followers](https://img.shields.io/github/followers/rygenzx) ![GitHub User's stars](https://img.shields.io/github/stars/rygenzx)
 
- <h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
                 width="24" /> &nbsp; My Github Stats</h3>
 
-<p>
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=rygenzx&theme=nightowl&show_icons=true)
-  
 
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rygenzx&theme=nightowl&show_icons=true)
