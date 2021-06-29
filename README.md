@@ -1,4 +1,4 @@
-### <p>Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+## <p>Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"></h1>
 
 <p align = "center">
  
@@ -10,8 +10,8 @@
 
 </p>
 
-<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" align="center"
-                width="28" /> What I currently do</h3></summary>
+<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1588805021/8902/lightningbolt.png?1588805021" align="center"
+                width="24" /> What I currently do</h3></summary>
 
 - 🏠 **I'm currently a Student.**
 - 💻 **I’m currently learning MERN and PHP.**
@@ -19,7 +19,7 @@
 - 💬 **Ask me about Tech and other.**
 
  <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
-                width="28" /> My Github Stats</h3></summary>
+                width="24" /> My Github Stats</h3></summary>
  
 <br>
 
