@@ -14,10 +14,8 @@
 - 😁 **I hope one day we can collaborate.**
 - 💬 **Ask me about Tech and other.**
 
- <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
-                width="24" /> My Github Stats</h3></summary>
- 
-<br>
+ <h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
+                width="24" /> My Github Stats</h3>
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=rygenzx&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
