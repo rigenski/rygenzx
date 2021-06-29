@@ -6,8 +6,8 @@
 [<img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/rygen_zx) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rygen_zx/)
 
-<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1588805021/8902/lightningbolt.png?1588805021" align="center"
-                width="24" /> What I currently do</h3></summary>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1588805021/8902/lightningbolt.png?1588805021" align="center"
+                width="24" /> &nbsp; What I currently do</h3>
 
 - 🏠 **I'm currently a Student.**
 - 💻 **I’m currently learning MERN and PHP.**
