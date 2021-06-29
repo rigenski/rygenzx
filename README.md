@@ -11,10 +11,10 @@
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1588805021/8902/lightningbolt.png?1588805021" align="center"
                 width="24" /> &nbsp; What I currently do</h3>
 
-- 🏠 **I'm currently a Student.**
-- 💻 **I’m currently learning MERN and PHP.**
+- 🏠 **Currently learning and growing my skills in Web Development.**
+- 💻 **Love exploring Technology and making things.**
 - 😁 **I hope one day we can collaborate.**
-- 💬 **Ask me about Tech and other.**
+- 💬 **Any Question ? Ask me on [Telegram](https://t.me/rygen_zx).**
 
 &nbsp; ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rygenzx.rygenzx) ![GitHub followers](https://img.shields.io/github/followers/rygenzx) ![GitHub User's stars](https://img.shields.io/github/stars/rygenzx)
 
