@@ -1,7 +1,5 @@
 # <p align="center">Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-**<h3 align="center">I'm a Student Developer.<br/>I specialize in Web Development.<br>I also love Tech and Design.<br></h3><br/>**
-
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" align="center"
                 width="28" /> What I currently do</h3></summary>
 
