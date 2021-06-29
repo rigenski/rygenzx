@@ -20,5 +20,7 @@
                 width="24" /> &nbsp; My Github Stats</h3>
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=rygenzx&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rygenzx&show_icons=true&theme=algolia)
+  
+
 </p>
