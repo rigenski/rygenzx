@@ -1,15 +1,4 @@
-# <p align="center">Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-
-<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" align="center"
-                width="28" /> What I currently do</h3></summary>
-
-- 🏠 **I'm currently a Student.**
-- 💻 **I’m currently learning MERN and PHP.**
-- 😁 **I hope one day we can collaborate.**
-- 💬 **Ask me about Tech and other.**
-
- <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif?1450372448" align="center"
-                width="28" /> To connect with me</h3></summary>
+### <p>Hello Everyone, I'm Rigen Maulana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align = "center">
  
@@ -20,6 +9,14 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rygen_zx/)
 
 </p>
+
+<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" align="center"
+                width="28" /> What I currently do</h3></summary>
+
+- 🏠 **I'm currently a Student.**
+- 💻 **I’m currently learning MERN and PHP.**
+- 😁 **I hope one day we can collaborate.**
+- 💬 **Ask me about Tech and other.**
 
  <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" align="center"
                 width="28" /> My Github Stats</h3></summary>
