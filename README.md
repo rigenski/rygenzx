@@ -11,7 +11,7 @@
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1588805021/8902/lightningbolt.png?1588805021" align="center"
                 width="24" /> &nbsp; What I currently do</h3>
 
-- 🏠 **Currently learning and growing my skills in React, Express and Laravel.**
+- 🏠 **Currently learning and growing my skills in React, Next, Express and Laravel.**
 - 💻 **Love exploring Technology and making things.**
 - 😁 **I hope one day we can collaborate.**
 - 💬 **Any Question ? Ask me on [Telegram](https://t.me/rygen_zx).**
