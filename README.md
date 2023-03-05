@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/rygen_zx) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rygen_zx/)
 
-**I'm a Software Engineering student. I'm always passionate about Learning and Working across Technologies. I explore new Technologies and use them to Solve Problems and now currently focusing on Web Development ✨.**
+**I'm a Frontend Engineer. I'm always passionate about Learning and Working across Technologies. I explore new Anything and use them to Solve Problems and now currently focusing on Web Development ✨.**
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1588805021/8902/lightningbolt.png?1588805021" align="center"
                 width="24" /> &nbsp; What I currently do</h3>
